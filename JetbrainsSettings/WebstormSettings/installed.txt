@@ -1,0 +1,6 @@
+BashSupport
+com.almightyalpaca.intellij.plugins.discord
+com.chrisrm.idea.MaterialThemeUI
+com.intellij.plugin.adernov.powershell
+com.mallowigi
+mobi.hsz.idea.gitignore

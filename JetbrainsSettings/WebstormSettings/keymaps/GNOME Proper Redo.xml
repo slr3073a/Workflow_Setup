@@ -1,0 +1,69 @@
+<keymap version="1" name="GNOME Proper Redo" parent="Default for GNOME">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="CollapseRegion" />
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl colon" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorScrollUp" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ExpandRegion" />
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Generate.Missing.Members.ES6" />
+  <action id="Generate.Missing.Members.TypeScript" />
+  <action id="ImplementMethods" />
+  <action id="JupyterSelectCellAboveAction" />
+  <action id="JupyterSelectCellBelowAction" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
+  <action id="ScrollTreeToCenter" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+</keymap>
